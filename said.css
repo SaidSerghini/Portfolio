@@ -19,7 +19,7 @@ body {
 }
 @font-face {
 	font-family:myfont;
-	src:url(../Font/American%20Captain.ttf);
+	src:url(font/American%20Captain.ttf);
 }
 
 #nav {
